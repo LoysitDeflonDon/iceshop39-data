@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "Хаски Соль 20мг",
+        "category": "Жидкости",
+        "price": 550,
+        "desc": "Тархун, 30мл",
+        "image": "https://placehold.co/400x300/1E293B/3B82F6?text=Husky"
+    },
+    {
+        "id": 2,
+        "name": "OXVA Xlim Pro 2",
+        "category": "Вейпы",
+        "price": 3490,
+        "desc": "Регулировка обдува",
+        "image": "https://placehold.co/400x300/1E293B/3B82F6?text=OXVA"
+    },
+    {
+        "id": 3,
+        "name": "Aspire Nautilus 3",
+        "category": "Испарители",
+        "price": 1250,
+        "desc": "0.7 Ом, испаритель",
+        "image": "https://placehold.co/400x300/1E293B/3B82F6?text=Aspire"
+    },
+    {
+        "id": 4,
+        "name": "Siberia White Fox",
+        "category": "Снюс",
+        "price": 450,
+        "desc": "20 порций",
+        "image": "https://placehold.co/400x300/1E293B/3B82F6?text=Siberia"
+    },
+    {
+        "id": 5,
+        "name": "Nasty Juice 50мг",
+        "category": "Жидкости",
+        "price": 690,
+        "desc": "Манго 30мл",
+        "image": "https://placehold.co/400x300/1E293B/3B82F6?text=Nasty"
+    },
+    {
+        "id": 6,
+        "name": "Vaporesso XROS 3",
+        "category": "Вейпы",
+        "price": 2790,
+        "desc": "Компактный под",
+        "image": "https://placehold.co/400x300/1E293B/3B82F6?text=XROS"
+    },
+    {
+        "id": 7,
+        "name": "Pablo Exclusive",
+        "category": "Снюс",
+        "price": 390,
+        "desc": "Ягодный микс",
+        "image": "https://placehold.co/400x300/1E293B/3B82F6?text=Pablo"
+    },
+    {
+        "id": 8,
+        "name": "GeekVape Wenax Картридж",
+        "category": "Картриджи",
+        "price": 650,
+        "desc": "1.2 Ом, 2шт",
+        "image": "https://placehold.co/400x300/1E293B/3B82F6?text=Wenax+Cartridge"
+    },
+    {
+        "id": 9,
+        "name": "HQD Cuvie Plus",
+        "category": "Одноразки",
+        "price": 990,
+        "desc": "1200 затяжек, клубника",
+        "image": "https://placehold.co/400x300/1E293B/3B82F6?text=HQD"
+    },
+    {
+        "id": 10,
+        "name": "Elf Bar 5000",
+        "category": "Одноразки",
+        "price": 1290,
+        "desc": "5000 затяжек, ледяная мята",
+        "image": "https://placehold.co/400x300/1E293B/3B82F6?text=Elf+Bar"
+    }
+]
