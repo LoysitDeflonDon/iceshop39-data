@@ -25,14 +25,14 @@
     "category": "Жидкости",
     "image": "https://i.ibb.co/BHG4Fxtk/2026-04-04-152644947.png",
     "flavors": [
-        { "name": "Брусника/Смородина/Клюква", "price": 590, "stock": 12 },
-        { "name": "Помело", "price": 590, "stock": 8 },
-        { "name": "Ежевика/Черника", "price": 590, "stock": 15 },
-        { "name": "Маракуйя/Папайя", "price": 590, "stock": 10 },
-        { "name": "Грейпфрут/Груша", "price": 590, "stock": 7 },
-        { "name": "Ultra: Брусника/Смородина/Клюква", "price": 650, "stock": 5 },
-        { "name": "Ultra: Ежевика/Черника", "price": 650, "stock": 4 },
-        { "name": "Ultra: Грейпфрут/Груша", "price": 650, "stock": 3 }
+        { "name": "Брусника/Смородина/Клюква", "price": 500, "stock": 12 },
+        { "name": "Помело", "price": 500, "stock": 8 },
+        { "name": "Ежевика/Черника", "price": 500, "stock": 15 },
+        { "name": "Маракуйя/Папайя", "price": 500, "stock": 10 },
+        { "name": "Грейпфрут/Груша", "price": 500, "stock": 7 },
+        { "name": "Ultra: Брусника/Смородина/Клюква", "price": 500, "stock": 5 },
+        { "name": "Ultra: Ежевика/Черника", "price": 500, "stock": 4 },
+        { "name": "Ultra: Грейпфрут/Груша", "price": 500, "stock": 3 }
     ]
 },
     {
