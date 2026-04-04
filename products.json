@@ -98,7 +98,7 @@
             { "name": "Клюквенная газировка (Soda Cranberry)", "price": 500, "stock": 10 },
             { "name": "Морс черника виноград (Mors Berry)", "price": 500, "stock": 10 }
         ]
-    }
+    },
     {
         "id": 9,
         "name": "Xros",
