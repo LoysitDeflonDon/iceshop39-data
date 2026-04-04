@@ -3,7 +3,7 @@
         "id": 31,
         "name": "WAKA 20K",
         "category": "Одноразки",
-        "image": "https://i.ibb.co/3Xgr0v8/2026-04-04-124326975.png",
+        "image": "https://i.ibb.co/Nd52fgxz/2026-04-05-000355767.png",
         "flavors": [
             { "name": "Sakura grape", "price": 1800, "stock": 1 }
         ]
@@ -23,7 +23,7 @@
         "id": 33,
         "name": "MOTI 12K",
         "category": "Одноразки",
-        "image": "https://i.ibb.co/3Xgr0v8/2026-04-04-124326975.png",
+        "image": "https://i.ibb.co/3yv2TckQ/2026-04-05-000633882.png",
         "flavors": [
             { "name": "Розовый лимонад", "price": 800, "stock": 1 },
             { "name": "Вишнёвый поцелуй 2Х", "price": 800, "stock": 1 },
@@ -35,7 +35,7 @@
         "id": 34,
         "name": "Рик & Морти 30К",
         "category": "Одноразки",
-        "image": "https://i.ibb.co/3Xgr0v8/2026-04-04-124326975.png",
+        "image": "https://i.ibb.co/1fJqfpq3/2026-04-05-000755509.png",
         "flavors": [
             { "name": "Marmelade berries", "price": 1800, "stock": 1 }
         ]
