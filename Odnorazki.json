@@ -1,0 +1,82 @@
+[
+    {
+        "id": 21,
+        "name": "Одноразка HQD Cuvie Plus 1200 затяжек",
+        "category": "Одноразки",
+        "image": "https://i.ibb.co/W4hXLFkr/2026-04-04-124758580.png",
+        "price": 890,
+        "desc": "Малина/Мята, 5% никотина",
+        "stock": 15
+    },
+    {
+        "id": 31,
+        "name": "WAKA 20K",
+        "category": "Одноразки",
+        "image": "https://i.ibb.co/3Xgr0v8/2026-04-04-124326975.png",
+        "flavors": [
+            { "name": "Sakura grape", "price": 1800, "stock": 1 }
+        ]
+    },
+    {
+        "id": 32,
+        "name": "NARCOZ 15K",
+        "category": "Одноразки",
+        "image": "https://i.ibb.co/3Xgr0v8/2026-04-04-124326975.png",
+        "flavors": [
+            { "name": "Energy drink", "price": 1000, "stock": 1 },
+            { "name": "Strawberry pomegranat", "price": 1000, "stock": 1 },
+            { "name": "Mirinda", "price": 1000, "stock": 1 }
+        ]
+    },
+    {
+        "id": 33,
+        "name": "MOTI 12K",
+        "category": "Одноразки",
+        "image": "https://i.ibb.co/3Xgr0v8/2026-04-04-124326975.png",
+        "flavors": [
+            { "name": "Розовый лимонад", "price": 800, "stock": 1 },
+            { "name": "Вишнёвый поцелуй 2Х", "price": 800, "stock": 1 },
+            { "name": "Яблоко в кислой глазури", "price": 800, "stock": 1 },
+            { "name": "Черника малина лимон", "price": 800, "stock": 1 }
+        ]
+    },
+    {
+        "id": 34,
+        "name": "Рик & Морти 30К",
+        "category": "Одноразки",
+        "image": "https://i.ibb.co/3Xgr0v8/2026-04-04-124326975.png",
+        "flavors": [
+            { "name": "Marmelade berries", "price": 1800, "stock": 1 }
+        ]
+    },
+    {
+        "id": 35,
+        "name": "FUMO 18K",
+        "category": "Одноразки",
+        "image": "https://i.ibb.co/3Xgr0v8/2026-04-04-124326975.png",
+        "flavors": [
+            { "name": "Газировка с лемонграссом", "price": 1000, "stock": 1 },
+            { "name": "Мохито лимон мята", "price": 1000, "stock": 1 }
+        ]
+    },
+    {
+        "id": 36,
+        "name": "BRUSKO 1,5K",
+        "category": "Одноразки",
+        "image": "https://i.ibb.co/3Xgr0v8/2026-04-04-124326975.png",
+        "flavors": [
+            { "name": "Грейпфрут", "price": 300, "stock": 1 },
+            { "name": "Кола", "price": 300, "stock": 1 },
+            { "name": "Фруктовое драже", "price": 300, "stock": 1 }
+        ]
+    },
+    {
+        "id": 37,
+        "name": "IZY MAX 5K",
+        "category": "Одноразки",
+        "image": "https://i.ibb.co/3Xgr0v8/2026-04-04-124326975.png",
+        "flavors": [
+            { "name": "Blueberry ice", "price": 450, "stock": 1 }
+        ]
+    }
+]
