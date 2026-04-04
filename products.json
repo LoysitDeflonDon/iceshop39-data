@@ -108,7 +108,7 @@
             { "name": "синий", "price": 500, "stock": 10 },
             { "name": "красный", "price": 500, "stock": 10 },
             { "name": "розовый", "price": 500, "stock": 10 },
-            { "name": "синий", "price": 500, "stock": 10 },
+            { "name": "белый", "price": 500, "stock": 10 },
             { "name": "чёрный", "price": 500, "stock": 10 }
         ]
     }
