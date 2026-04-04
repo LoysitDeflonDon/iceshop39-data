@@ -99,4 +99,17 @@
             { "name": "Морс черника виноград (Mors Berry)", "price": 500, "stock": 10 }
         ]
     }
+    {
+        "id": 9,
+        "name": "Xros",
+        "category": "Вейпы",
+        "image": "https://i.ibb.co/ZRJWzFgY/i.webp",
+        "flavors": [
+            { "name": "синий", "price": 500, "stock": 10 },
+            { "name": "красный", "price": 500, "stock": 10 },
+            { "name": "розовый", "price": 500, "stock": 10 },
+            { "name": "синий", "price": 500, "stock": 10 },
+            { "name": "чёрный", "price": 500, "stock": 10 }
+        ]
+    }
 ]
