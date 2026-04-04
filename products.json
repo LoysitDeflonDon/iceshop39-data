@@ -101,7 +101,97 @@
     },
     {
         "id": 9,
-        "name": "OXVA Xlim Pro 2",
+        "name": "Вейп1",
+        "category": "Вейпы",
+        "image": "https://i.ibb.co/3Xgr0v8/2026-04-04-124326975.png",
+        "flavors": [
+            { "name": "Чёрный", "price": 3490, "stock": 6 },
+            { "name": "Золотистый", "price": 3490, "stock": 4 }
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Вейп2",
+        "category": "Вейпы",
+        "image": "https://i.ibb.co/3Xgr0v8/2026-04-04-124326975.png",
+        "flavors": [
+            { "name": "Чёрный", "price": 3490, "stock": 6 },
+            { "name": "Золотистый", "price": 3490, "stock": 4 }
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Вейп3",
+        "category": "Вейпы",
+        "image": "https://i.ibb.co/3Xgr0v8/2026-04-04-124326975.png",
+        "flavors": [
+            { "name": "Чёрный", "price": 3490, "stock": 6 },
+            { "name": "Золотистый", "price": 3490, "stock": 4 }
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Вейп4",
+        "category": "Вейпы",
+        "image": "https://i.ibb.co/3Xgr0v8/2026-04-04-124326975.png",
+        "flavors": [
+            { "name": "Чёрный", "price": 3490, "stock": 6 },
+            { "name": "Золотистый", "price": 3490, "stock": 4 }
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Вейп5",
+        "category": "Вейпы",
+        "image": "https://i.ibb.co/3Xgr0v8/2026-04-04-124326975.png",
+        "flavors": [
+            { "name": "Чёрный", "price": 3490, "stock": 6 },
+            { "name": "Золотистый", "price": 3490, "stock": 4 }
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Вейп6",
+        "category": "Вейпы",
+        "image": "https://i.ibb.co/3Xgr0v8/2026-04-04-124326975.png",
+        "flavors": [
+            { "name": "Чёрный", "price": 3490, "stock": 6 },
+            { "name": "Золотистый", "price": 3490, "stock": 4 }
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Вейп7",
+        "category": "Вейпы",
+        "image": "https://i.ibb.co/3Xgr0v8/2026-04-04-124326975.png",
+        "flavors": [
+            { "name": "Чёрный", "price": 3490, "stock": 6 },
+            { "name": "Золотистый", "price": 3490, "stock": 4 }
+        ]
+    }
+    {
+        "id": 16,
+        "name": "Вейп8",
+        "category": "Вейпы",
+        "image": "https://i.ibb.co/3Xgr0v8/2026-04-04-124326975.png",
+        "flavors": [
+            { "name": "Чёрный", "price": 3490, "stock": 6 },
+            { "name": "Золотистый", "price": 3490, "stock": 4 }
+        ]
+    },
+    {
+        "id": 17,
+        "name": "Вейп9",
+        "category": "Вейпы",
+        "image": "https://i.ibb.co/3Xgr0v8/2026-04-04-124326975.png",
+        "flavors": [
+            { "name": "Чёрный", "price": 3490, "stock": 6 },
+            { "name": "Золотистый", "price": 3490, "stock": 4 }
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Вейп10",
         "category": "Вейпы",
         "image": "https://i.ibb.co/3Xgr0v8/2026-04-04-124326975.png",
         "flavors": [
