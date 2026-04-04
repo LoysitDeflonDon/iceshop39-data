@@ -1,0 +1,152 @@
+[
+    {
+        "id": 1,
+        "name": "Catswill Extra",
+        "category": "Жидкости",
+        "image": "https://i.ibb.co/ZRJWzFgY/i.webp",
+        "flavors": [
+            { "name": "Вишня скитлс лимон", "price": 500, "stock": 10 },
+            { "name": "Кислый ананас лимон", "price": 500, "stock": 10 },
+            { "name": "Лимон груша", "price": 500, "stock": 10 },
+            { "name": "Кокос ананас лёд", "price": 500, "stock": 10 },
+            { "name": "Кислый швепс грейпфрут", "price": 500, "stock": 10 },
+            { "name": "Морозная ледяная мелисса", "price": 500, "stock": 10 },
+            { "name": "Кислый мандариновый скитлс", "price": 500, "stock": 10 }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Злой Монарх",
+        "category": "Жидкости",
+        "image": "https://i.ibb.co/ZRJWzFgY/i.webp",
+        "flavors": [
+            { "name": "Арбуз малина лёд", "price": 500, "stock": 10 },
+            { "name": "Энергетик лёд", "price": 500, "stock": 10 },
+            { "name": "Виноград лёд", "price": 500, "stock": 10 },
+            { "name": "Монстр с малиной и лаймом", "price": 500, "stock": 10 }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Narcoz",
+        "category": "Жидкости",
+        "image": "https://i.ibb.co/whcQ6VdS/2026-04-04-154859948.png",
+        "flavors": [
+            { "name": "Малина-мята", "price": 500, "stock": 10 },
+            { "name": "Скитлс", "price": 500, "stock": 10 },
+            { "name": "Лесные ягоды", "price": 500, "stock": 10 }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Mad",
+        "category": "Жидкости",
+        "image": "https://i.ibb.co/CZLVV05/2026-04-04-155943250.png",
+        "flavors": [
+            { "name": "Mint fatality", "price": 500, "stock": 10 },
+            { "name": "Ice peach", "price": 500, "stock": 10 }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Bjorn prem",
+        "category": "Жидкости",
+        "image": "https://i.ibb.co/ZRJWzFgY/i.webp",
+        "flavors": [
+            { "name": "Личи дыня (20 MG)", "price": 500, "stock": 10 },
+            { "name": "Энергетик (20 MG)", "price": 500, "stock": 10 },
+            { "name": "Лимон мята (20 MG)", "price": 500, "stock": 10 },
+            { "name": "Виноград (20 MG)", "price": 500, "stock": 10 },
+            { "name": "Манго персик (20 MG)", "price": 500, "stock": 10 },
+            { "name": "Мандарин (20 MG)", "price": 500, "stock": 10 },
+            { "name": "Банан манго (20 MG)", "price": 500, "stock": 10 },
+            { "name": "Кола (20 MG)", "price": 500, "stock": 10 },
+            { "name": "Ледяная черника (20 MG)", "price": 500, "stock": 10 },
+            { "name": "Клубника банан (20 MG)", "price": 500, "stock": 10 },
+            { "name": "Ледяной ананас кокос (20 MG)", "price": 500, "stock": 10 },
+            { "name": "Черника малина (20 MG)", "price": 500, "stock": 10 },
+            { "name": "Маракуйа апельсин (20 MG)", "price": 500, "stock": 10 },
+            { "name": "Ледяная гуава (50 MG)", "price": 500, "stock": 10 },
+            { "name": "Гранат виноград (50 MG)", "price": 500, "stock": 10 },
+            { "name": "Ледяная черника (50 MG)", "price": 500, "stock": 10 },
+            { "name": "Малиновый лимонад (50 MG)", "price": 500, "stock": 10 },
+            { "name": "Ледяной грейпфрут (50 MG)", "price": 500, "stock": 10 },
+            { "name": "Ананас дыня (50 MG)", "price": 500, "stock": 10 },
+            { "name": "Ледяной ананас кокос (50 MG)", "price": 500, "stock": 10 },
+            { "name": "Энергетик (50 MG)", "price": 500, "stock": 10 }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Podonki Arcade",
+        "category": "Жидкости",
+        "image": "https://i.ibb.co/gMKFy1cB/2026-04-04-154556253.png",
+        "flavors": [
+            { "name": "Яблоко Вишня (Apple Cherry)", "price": 500, "stock": 10 },
+            { "name": "Банан Дыня Клубника (Banana Melon Strawberry)", "price": 500, "stock": 10 },
+            { "name": "Барбарисовый энергетик (Barberry Energy)", "price": 500, "stock": 10 },
+            { "name": "Яблоко Черешня (Apple Sweet Cherry)", "price": 500, "stock": 10 }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Anima",
+        "category": "Жидкости",
+        "image": "https://i.ibb.co/1GwjMrMd/2026-04-04-155617867.png",
+        "flavors": [
+            { "name": "Фруктовый микс", "price": 500, "stock": 10 },
+            { "name": "Ягодный коктейль", "price": 500, "stock": 10 },
+            { "name": "Свежая мята", "price": 500, "stock": 10 },
+            { "name": "Сливочный десерт", "price": 500, "stock": 10 }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Podonki Vintage",
+        "category": "Жидкости",
+        "image": "https://i.ibb.co/JRcJGgS1/2026-04-04-154337564.png",
+        "flavors": [
+            { "name": "Малиновый пунш (Punch Raspberry)", "price": 500, "stock": 10 },
+            { "name": "Смородиновый лимонад (Lemonade Blackcurrant)", "price": 500, "stock": 10 },
+            { "name": "Освежающий лимонад (Lemonade Fresh)", "price": 500, "stock": 10 },
+            { "name": "Мармеладный джин (Gin Jelly)", "price": 500, "stock": 10 },
+            { "name": "Клюквенная газировка (Soda Cranberry)", "price": 500, "stock": 10 },
+            { "name": "Морс черника виноград (Mors Berry)", "price": 500, "stock": 10 }
+        ]
+    },
+    {
+        "id": 23,
+        "name": "Рик & Морти",
+        "category": "Жидкости",
+        "image": "https://i.ibb.co/4ZFGtB51/2026-04-04-222107369.png",
+        "flavors": [
+            { "name": "Кислый яблочный", "price": 500, "stock": 1 },
+            { "name": "Кислый манговый", "price": 500, "stock": 1 },
+            { "name": "Кислый черничный ягуар", "price": 500, "stock": 1 },
+            { "name": "Кислый виноградный", "price": 500, "stock": 1 },
+            { "name": "Кислый лесной бета-семь", "price": 500, "stock": 1 },
+            { "name": "Кислое киви", "price": 500, "stock": 1 },
+            { "name": "Кислая вишня", "price": 500, "stock": 1 }
+        ]
+    },
+    {
+        "id": 24,
+        "name": "Lit Energy",
+        "category": "Жидкости",
+        "image": "https://i.ibb.co/ZRJWzFgY/i.webp",
+        "flavors": [
+            { "name": "Малина мята", "price": 500, "stock": 10 },
+            { "name": "Скитлс", "price": 500, "stock": 10 },
+            { "name": "Лесные ягоды", "price": 500, "stock": 10 }
+        ]
+    },
+    {
+        "id": 25,
+        "name": "Dual",
+        "category": "Жидкости",
+        "image": "https://i.ibb.co/ZRJWzFgY/i.webp",
+        "flavors": [
+            { "name": "Черника арбуз", "price": 500, "stock": 10 }
+        ]
+    }
+]
