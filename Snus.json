@@ -1,0 +1,60 @@
+[
+    {
+        "id": 22,
+        "name": "Снюс Lyft Cool Mint",
+        "category": "Снюс",
+        "image": "https://i.ibb.co/kgQk6Rp7/2026-04-04-124535497.png",
+        "price": 499,
+        "desc": "Крепость 4/4, мятный вкус, 20 пакетиков",
+        "stock": 7
+    },
+    {
+        "id": 26,
+        "name": "DLTA 150",
+        "category": "Снюс",
+        "image": "https://i.ibb.co/ZRJWzFgY/i.webp",
+        "flavors": [
+            { "name": "Яблоко киви ред булл", "price": 500, "stock": 10 }
+        ]
+    },
+    {
+        "id": 27,
+        "name": "Истерика злая монашка 201",
+        "category": "Снюс",
+        "image": "https://i.ibb.co/ZRJWzFgY/i.webp",
+        "flavors": [
+            { "name": "Белый персик", "price": 500, "stock": 10 },
+            { "name": "Вишня брусника", "price": 500, "stock": 10 }
+        ]
+    },
+    {
+        "id": 28,
+        "name": "Истерика грех 190",
+        "category": "Снюс",
+        "image": "https://i.ibb.co/ZRJWzFgY/i.webp",
+        "flavors": [
+            { "name": "Ледяная клюква", "price": 500, "stock": 10 },
+            { "name": "Дыня персик", "price": 500, "stock": 10 }
+        ]
+    },
+    {
+        "id": 29,
+        "name": "Ice cool 75",
+        "category": "Снюс",
+        "image": "https://i.ibb.co/ZRJWzFgY/i.webp",
+        "flavors": [
+            { "name": "Mint 9", "price": 500, "stock": 10 },
+            { "name": "Mint 10", "price": 500, "stock": 10 }
+        ]
+    },
+    {
+        "id": 30,
+        "name": "Loop никотиновые пластинки",
+        "category": "Снюс",
+        "image": "https://i.ibb.co/ZRJWzFgY/i.webp",
+        "flavors": [
+            { "name": "Вишня", "price": 500, "stock": 10 },
+            { "name": "Зелёное яблоко", "price": 500, "stock": 10 }
+        ]
+    }
+]
