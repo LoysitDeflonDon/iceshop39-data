@@ -99,8 +99,7 @@
             { "name": "Морс черника виноград (Mors Berry)", "price": 500, "stock": 10 }
         ]
     },
-
-     {
+    {
         "id": 9,
         "name": "XROS 3",
         "category": "Вейпы",
