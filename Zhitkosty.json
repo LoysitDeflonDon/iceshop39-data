@@ -133,7 +133,7 @@
         "id": 24,
         "name": "Lit Energy",
         "category": "Жидкости",
-        "image": "https://i.ibb.co/ZRJWzFgY/i.webp",
+        "image": "https://i.ibb.co/sJKXcFvC/2026-04-05-000201945.png",
         "flavors": [
             { "name": "Малина мята", "price": 500, "stock": 10 },
             { "name": "Скитлс", "price": 500, "stock": 10 },
@@ -144,7 +144,7 @@
         "id": 25,
         "name": "Dual",
         "category": "Жидкости",
-        "image": "https://i.ibb.co/ZRJWzFgY/i.webp",
+        "image": "https://i.ibb.co/jvHBphFn/2026-04-05-000054994.png",
         "flavors": [
             { "name": "Черника арбуз", "price": 500, "stock": 10 }
         ]
