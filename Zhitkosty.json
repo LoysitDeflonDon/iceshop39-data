@@ -5,13 +5,13 @@
         "category": "Жидкости",
         "image": "https://i.ibb.co/ZRJWzFgY/i.webp",
         "flavors": [
-            { "name": "Вишня скитлс лимон", "price": 500, "stock": 10 },
-            { "name": "Кислый ананас лимон", "price": 500, "stock": 10 },
-            { "name": "Лимон груша", "price": 500, "stock": 10 },
-            { "name": "Кокос ананас лёд", "price": 500, "stock": 10 },
-            { "name": "Кислый швепс грейпфрут", "price": 500, "stock": 10 },
-            { "name": "Морозная ледяная мелисса", "price": 500, "stock": 10 },
-            { "name": "Кислый мандариновый скитлс", "price": 500, "stock": 10 }
+            { "name": "Вишня скитлс лимон", "price": 500, "stock": 1 },
+            { "name": "Кислый ананас лимон", "price": 500, "stock": 1 },
+            { "name": "Лимон груша", "price": 500, "stock": 1 },
+            { "name": "Кокос ананас лёд", "price": 500, "stock": 1 },
+            { "name": "Кислый швепс грейпфрут", "price": 500, "stock": 1 },
+            { "name": "Морозная ледяная мелисса", "price": 500, "stock": 1 },
+            { "name": "Кислый мандариновый скитлс", "price": 500, "stock": 1 }
         ]
     },
     {
@@ -20,10 +20,10 @@
         "category": "Жидкости",
         "image": "https://i.ibb.co/N2JxJhyB/2026-04-05-002911980.png",
         "flavors": [
-            { "name": "Арбуз малина лёд", "price": 500, "stock": 10 },
-            { "name": "Энергетик лёд", "price": 500, "stock": 10 },
-            { "name": "Виноград лёд", "price": 500, "stock": 10 },
-            { "name": "Монстр с малиной и лаймом", "price": 500, "stock": 10 }
+            { "name": "Арбуз малина лёд", "price": 500, "stock": 1 },
+            { "name": "Энергетик лёд", "price": 500, "stock": 1 },
+            { "name": "Виноград лёд", "price": 500, "stock": 1 },
+            { "name": "Монстр с малиной и лаймом", "price": 500, "stock": 1 }
         ]
     },
     {
@@ -32,9 +32,9 @@
         "category": "Жидкости",
         "image": "https://i.ibb.co/whcQ6VdS/2026-04-04-154859948.png",
         "flavors": [
-            { "name": "Малина-мята", "price": 500, "stock": 10 },
-            { "name": "Скитлс", "price": 500, "stock": 10 },
-            { "name": "Лесные ягоды", "price": 500, "stock": 10 }
+            { "name": "Малина-мята", "price": 500, "stock": 1 },
+            { "name": "Скитлс", "price": 500, "stock": 1 },
+            { "name": "Лесные ягоды", "price": 500, "stock": 1 }
         ]
     },
     {
@@ -43,8 +43,8 @@
         "category": "Жидкости",
         "image": "https://i.ibb.co/CZLVV05/2026-04-04-155943250.png",
         "flavors": [
-            { "name": "Mint fatality", "price": 500, "stock": 10 },
-            { "name": "Ice peach", "price": 500, "stock": 10 }
+            { "name": "Mint fatality", "price": 500, "stock": 1 },
+            { "name": "Ice peach", "price": 500, "stock": 1 }
         ]
     },
     {
@@ -82,10 +82,10 @@
         "category": "Жидкости",
         "image": "https://i.ibb.co/gMKFy1cB/2026-04-04-154556253.png",
         "flavors": [
-            { "name": "Яблоко Вишня (Apple Cherry)", "price": 500, "stock": 10 },
-            { "name": "Банан Дыня Клубника (Banana Melon Strawberry)", "price": 500, "stock": 10 },
-            { "name": "Барбарисовый энергетик (Barberry Energy)", "price": 500, "stock": 10 },
-            { "name": "Яблоко Черешня (Apple Sweet Cherry)", "price": 500, "stock": 10 }
+            { "name": "Яблоко Вишня (Apple Cherry)", "price": 500, "stock": 1 },
+            { "name": "Банан Дыня Клубника (Banana Melon Strawberry)", "price": 500, "stock": 1 },
+            { "name": "Барбарисовый энергетик (Barberry Energy)", "price": 500, "stock": 1 },
+            { "name": "Яблоко Черешня (Apple Sweet Cherry)", "price": 500, "stock": 1 }
         ]
     },
     {
@@ -94,10 +94,10 @@
         "category": "Жидкости",
         "image": "https://i.ibb.co/1GwjMrMd/2026-04-04-155617867.png",
         "flavors": [
-            { "name": "Фруктовый микс", "price": 500, "stock": 10 },
-            { "name": "Ягодный коктейль", "price": 500, "stock": 10 },
-            { "name": "Свежая мята", "price": 500, "stock": 10 },
-            { "name": "Сливочный десерт", "price": 500, "stock": 10 }
+            { "name": "Фруктовый микс", "price": 500, "stock": 1 },
+            { "name": "Ягодный коктейль", "price": 500, "stock": 1 },
+            { "name": "Свежая мята", "price": 500, "stock": 1 },
+            { "name": "Сливочный десерт", "price": 500, "stock": 1 }
         ]
     },
     {
@@ -106,12 +106,12 @@
         "category": "Жидкости",
         "image": "https://i.ibb.co/JRcJGgS1/2026-04-04-154337564.png",
         "flavors": [
-            { "name": "Малиновый пунш (Punch Raspberry)", "price": 500, "stock": 10 },
-            { "name": "Смородиновый лимонад (Lemonade Blackcurrant)", "price": 500, "stock": 10 },
-            { "name": "Освежающий лимонад (Lemonade Fresh)", "price": 500, "stock": 10 },
-            { "name": "Мармеладный джин (Gin Jelly)", "price": 500, "stock": 10 },
-            { "name": "Клюквенная газировка (Soda Cranberry)", "price": 500, "stock": 10 },
-            { "name": "Морс черника виноград (Mors Berry)", "price": 500, "stock": 10 }
+            { "name": "Малиновый пунш (Punch Raspberry)", "price": 500, "stock": 1 },
+            { "name": "Смородиновый лимонад (Lemonade Blackcurrant)", "price": 500, "stock": 1 },
+            { "name": "Освежающий лимонад (Lemonade Fresh)", "price": 500, "stock": 1 },
+            { "name": "Мармеладный джин (Gin Jelly)", "price": 500, "stock": 1 },
+            { "name": "Клюквенная газировка (Soda Cranberry)", "price": 500, "stock": 1 },
+            { "name": "Морс черника виноград (Mors Berry)", "price": 500, "stock": 1 }
         ]
     },
     {
@@ -135,9 +135,9 @@
         "category": "Жидкости",
         "image": "https://i.ibb.co/sJKXcFvC/2026-04-05-000201945.png",
         "flavors": [
-            { "name": "Малина мята", "price": 500, "stock": 10 },
-            { "name": "Скитлс", "price": 500, "stock": 10 },
-            { "name": "Лесные ягоды", "price": 500, "stock": 10 }
+            { "name": "Малина мята", "price": 500, "stock": 1 },
+            { "name": "Скитлс", "price": 500, "stock": 1 },
+            { "name": "Лесные ягоды", "price": 500, "stock": 1 }
         ]
     },
     {
@@ -146,7 +146,7 @@
         "category": "Жидкости",
         "image": "https://i.ibb.co/jvHBphFn/2026-04-05-000054994.png",
         "flavors": [
-            { "name": "Черника арбуз", "price": 500, "stock": 10 }
+            { "name": "Черника арбуз", "price": 500, "stock": 1 }
         ]
     }
 ]
