@@ -198,5 +198,41 @@
             { "name": "Чёрный", "price": 3490, "stock": 6 },
             { "name": "Золотистый", "price": 3490, "stock": 4 }
         ]
+    },
+    {
+        "id": 19,
+        "name": "Испаритель Vaporesso GTX 0.8 Ом",
+        "category": "Испарители",
+        "image": "https://i.ibb.co/xKG5BxjK/2026-04-04-124034203.png",
+        "price": 450,
+        "desc": "Сетчатый испаритель, отличная передача вкуса",
+        "stock": 12
+    },
+    {
+        "id": 20,
+        "name": "Картридж XROS 0.8 Ом",
+        "category": "Картриджи",
+        "image": "https://i.ibb.co/k284RcWN/2026-04-04-123830912.png",
+        "price": 390,
+        "desc": "Сменный картридж для Vaporesso XROS, объём 2ml",
+        "stock": 8
+    },
+    {
+        "id": 21,
+        "name": "Одноразка HQD Cuvie Plus 1200 затяжек",
+        "category": "Одноразки",
+        "image": "https://i.ibb.co/W4hXLFkr/2026-04-04-124758580.png",
+        "price": 890,
+        "desc": "Малина/Мята, 5% никотина",
+        "stock": 15
+    },
+    {
+        "id": 22,
+        "name": "Снюс Lyft Cool Mint",
+        "category": "Снюс",
+        "image": "https://i.ibb.co/kgQk6Rp7/2026-04-04-124535497.png",
+        "price": 499,
+        "desc": "Крепость 4/4, мятный вкус, 20 пакетиков",
+        "stock": 7
     }
 ]
