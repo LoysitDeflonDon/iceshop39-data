@@ -1,20 +1,13 @@
-[
-    {
-        "id": 1,
-        "name": "Хаски Соль",
-        "category": "Жидкости",
-        "image": "https://i.ibb.co/ZRJWzFgY/i.webp",
-        "flavors": [
-            { "name": "Тархун 20мг", "price": 550, "stock": 15 },
-            { "name": "Малина 20мг", "price": 550, "stock": 8 }
-        ]
-    },
-    {
-        "id": 2,
-        "name": "OXVA Xlim Pro 2",
-        "category": "Вейпы",
-        "price": 3490,
-        "desc": "Регулировка обдува",
-        "image": "https://i.ibb.co/3Xgr0v8/2026-04-04-124326975.png"
-    }
-]
+{
+    "id": 11,
+    "name": "Злая Монашка",
+    "category": "Жидкости",
+    "image": "https://i.ibb.co/ZRJWzFgY/i.webp",
+    "flavors": [
+        { "name": "Малиновый клобук", "price": 590, "stock": 12 },
+        { "name": "Чёрный аббат", "price": 590, "stock": 8 },
+        { "name": "Ледяная исповедь", "price": 590, "stock": 3 },
+        { "name": "Греховный персик", "price": 590, "stock": 15 },
+        { "name": "Монаший мёд", "price": 590, "stock": 7 }
+    ]
+}
