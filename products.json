@@ -1,96 +1,102 @@
 [
     {
         "id": 1,
-        "name": "Хаски Соль",
+        "name": "Catswill Extra",
         "category": "Жидкости",
         "image": "https://i.ibb.co/ZRJWzFgY/i.webp",
         "flavors": [
-            { "name": "Тархун 20мг", "price": 550, "stock": 15 },
-            { "name": "Малина 20мг", "price": 550, "stock": 8 }
+            { "name": "Вишневые леденцы (Cherry Lollipop)", "price": 500, "stock": 10 },
+            { "name": "Кислый Виноградный Чупа-чупс (Sour Grape Chupa Chups)", "price": 500, "stock": 10 },
+            { "name": "Клубника/Жвачка/Банан (Strawberry Gum Banana)", "price": 500, "stock": 10 },
+            { "name": "Малина/Ежевика (Raspberry Blackberry)", "price": 500, "stock": 10 },
+            { "name": "Перечная мята (Peppermint)", "price": 500, "stock": 10 }
         ]
     },
     {
         "id": 2,
-        "name": "Nasty Juice",
+        "name": "Злой Монарх",
         "category": "Жидкости",
-        "image": "https://placehold.co/400x300/1E293B/3B82F6?text=Nasty",
+        "image": "https://i.ibb.co/ZRJWzFgY/i.webp",
         "flavors": [
-            { "name": "Манго 50мг", "price": 690, "stock": 10 },
-            { "name": "Клубника 50мг", "price": 690, "stock": 5 }
+            { "name": "Малиновый клобук", "price": 500, "stock": 10 },
+            { "name": "Чёрный аббат", "price": 500, "stock": 10 },
+            { "name": "Ледяная исповедь", "price": 500, "stock": 10 },
+            { "name": "Греховный персик", "price": 500, "stock": 10 },
+            { "name": "Монаший мёд", "price": 500, "stock": 10 }
         ]
     },
     {
-    "id": 3,
-    "name": "Злая Монашка",
-    "category": "Жидкости",
-    "image": "https://i.ibb.co/BHG4Fxtk/2026-04-04-152644947.png",
-    "flavors": [
-        { "name": "Брусника/Смородина/Клюква", "price": 500, "stock": 12 },
-        { "name": "Помело", "price": 500, "stock": 8 },
-        { "name": "Ежевика/Черника", "price": 500, "stock": 15 },
-        { "name": "Маракуйя/Папайя", "price": 500, "stock": 10 },
-        { "name": "Грейпфрут/Груша", "price": 500, "stock": 7 },
-        { "name": "Ultra: Брусника/Смородина/Клюква", "price": 500, "stock": 5 },
-        { "name": "Ultra: Ежевика/Черника", "price": 500, "stock": 4 },
-        { "name": "Ultra: Грейпфрут/Груша", "price": 500, "stock": 3 }
-    ]
-},
+        "id": 3,
+        "name": "Narcoz",
+        "category": "Жидкости",
+        "image": "https://i.ibb.co/ZRJWzFgY/i.webp",
+        "flavors": [
+            { "name": "Лесные ягоды (Wild Berries)", "price": 500, "stock": 10 },
+            { "name": "Зеленое яблоко / Малина (Green Apple / Raspberry)", "price": 500, "stock": 10 },
+            { "name": "Малина / Мята (Raspberry / Mint)", "price": 500, "stock": 10 },
+            { "name": "7up (Газировка)", "price": 500, "stock": 10 }
+        ]
+    },
     {
         "id": 4,
-        "name": "Siberia White Fox",
-        "category": "Снюс",
-        "image": "https://placehold.co/400x300/1E293B/3B82F6?text=Siberia",
+        "name": "Mad",
+        "category": "Жидкости",
+        "image": "https://i.ibb.co/ZRJWzFgY/i.webp",
         "flavors": [
-            { "name": "Мятный", "price": 450, "stock": 20 },
-            { "name": "Цитрус", "price": 450, "stock": 12 }
+            { "name": "Sour Worms (Кислые червячки)", "price": 500, "stock": 10 },
+            { "name": "Tropical Fruits (Тропические фрукты)", "price": 500, "stock": 10 },
+            { "name": "Pink Lemonade (Розовый лимонад)", "price": 500, "stock": 10 },
+            { "name": "Marmalade (Мармелад)", "price": 500, "stock": 10 }
         ]
     },
     {
         "id": 5,
-        "name": "OXVA Xlim Pro 2",
-        "category": "Вейпы",
-        "price": 3490,
-        "desc": "Регулировка обдува",
-        "image": "https://i.ibb.co/3Xgr0v8/2026-04-04-124326975.png"
+        "name": "Bjorn prem",
+        "category": "Жидкости",
+        "image": "https://i.ibb.co/ZRJWzFgY/i.webp",
+        "flavors": [
+            { "name": "Фруктовый лед", "price": 500, "stock": 10 },
+            { "name": "Ягодный микс", "price": 500, "stock": 10 },
+            { "name": "Тропический коктейль", "price": 500, "stock": 10 },
+            { "name": "Мятная свежесть", "price": 500, "stock": 10 }
+        ]
     },
     {
         "id": 6,
-        "name": "Vaporesso XROS 3",
-        "category": "Вейпы",
-        "price": 2790,
-        "desc": "Компактный под",
-        "image": "https://placehold.co/400x300/1E293B/3B82F6?text=XROS"
+        "name": "Podonki Arcade",
+        "category": "Жидкости",
+        "image": "https://i.ibb.co/ZRJWzFgY/i.webp",
+        "flavors": [
+            { "name": "Яблоко Вишня (Apple Cherry)", "price": 500, "stock": 10 },
+            { "name": "Банан Дыня Клубника (Banana Melon Strawberry)", "price": 500, "stock": 10 },
+            { "name": "Барбарисовый энергетик (Barberry Energy)", "price": 500, "stock": 10 },
+            { "name": "Яблоко Черешня (Apple Sweet Cherry)", "price": 500, "stock": 10 }
+        ]
     },
     {
         "id": 7,
-        "name": "Aspire Nautilus 3",
-        "category": "Испарители",
-        "price": 1250,
-        "desc": "0.7 Ом, испаритель",
-        "image": "https://i.ibb.co/xKG5BxjK/2026-04-04-124034203.png"
+        "name": "Anima",
+        "category": "Жидкости",
+        "image": "https://i.ibb.co/ZRJWzFgY/i.webp",
+        "flavors": [
+            { "name": "Фруктовый микс", "price": 500, "stock": 10 },
+            { "name": "Ягодный коктейль", "price": 500, "stock": 10 },
+            { "name": "Свежая мята", "price": 500, "stock": 10 },
+            { "name": "Сливочный десерт", "price": 500, "stock": 10 }
+        ]
     },
     {
         "id": 8,
-        "name": "GeekVape Wenax Картридж",
-        "category": "Картриджи",
-        "price": 650,
-        "desc": "1.2 Ом, 2шт",
-        "image": "https://i.ibb.co/k284RcWN/2026-04-04-123830912.png"
-    },
-    {
-        "id": 9,
-        "name": "HQD Cuvie Plus",
-        "category": "Одноразки",
-        "price": 990,
-        "desc": "1200 затяжек, клубника",
-        "image": "https://placehold.co/400x300/1E293B/3B82F6?text=HQD"
-    },
-    {
-        "id": 10,
-        "name": "Elf Bar 5000",
-        "category": "Одноразки",
-        "price": 1290,
-        "desc": "5000 затяжек, ледяная мята",
-        "image": "https://placehold.co/400x300/1E293B/3B82F6?text=Elf+Bar"
+        "name": "Podonki Vintage",
+        "category": "Жидкости",
+        "image": "https://i.ibb.co/ZRJWzFgY/i.webp",
+        "flavors": [
+            { "name": "Малиновый пунш (Punch Raspberry)", "price": 500, "stock": 10 },
+            { "name": "Смородиновый лимонад (Lemonade Blackcurrant)", "price": 500, "stock": 10 },
+            { "name": "Освежающий лимонад (Lemonade Fresh)", "price": 500, "stock": 10 },
+            { "name": "Мармеладный джин (Gin Jelly)", "price": 500, "stock": 10 },
+            { "name": "Клюквенная газировка (Soda Cranberry)", "price": 500, "stock": 10 },
+            { "name": "Морс черника виноград (Mors Berry)", "price": 500, "stock": 10 }
+        ]
     }
 ]
