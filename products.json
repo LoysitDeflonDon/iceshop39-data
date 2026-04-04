@@ -1,13 +1,91 @@
-{
-    "id": 11,
-    "name": "Злая Монашка",
-    "category": "Жидкости",
-    "image": "https://i.ibb.co/ZRJWzFgY/i.webp",
-    "flavors": [
-        { "name": "Малиновый клобук", "price": 590, "stock": 12 },
-        { "name": "Чёрный аббат", "price": 590, "stock": 8 },
-        { "name": "Ледяная исповедь", "price": 590, "stock": 3 },
-        { "name": "Греховный персик", "price": 590, "stock": 15 },
-        { "name": "Монаший мёд", "price": 590, "stock": 7 }
-    ]
-}
+[
+    {
+        "id": 1,
+        "name": "Хаски Соль",
+        "category": "Жидкости",
+        "image": "https://i.ibb.co/ZRJWzFgY/i.webp",
+        "flavors": [
+            { "name": "Тархун 20мг", "price": 550, "stock": 15 },
+            { "name": "Малина 20мг", "price": 550, "stock": 8 }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Nasty Juice",
+        "category": "Жидкости",
+        "image": "https://placehold.co/400x300/1E293B/3B82F6?text=Nasty",
+        "flavors": [
+            { "name": "Манго 50мг", "price": 690, "stock": 10 },
+            { "name": "Клубника 50мг", "price": 690, "stock": 5 }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Злая Монашка",
+        "category": "Жидкости",
+        "image": "https://i.ibb.co/ZRJWzFgY/i.webp",
+        "flavors": [
+            { "name": "Малиновый клобук", "price": 590, "stock": 12 },
+            { "name": "Чёрный аббат", "price": 590, "stock": 8 },
+            { "name": "Ледяная исповедь", "price": 590, "stock": 3 }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Siberia White Fox",
+        "category": "Снюс",
+        "image": "https://placehold.co/400x300/1E293B/3B82F6?text=Siberia",
+        "flavors": [
+            { "name": "Мятный", "price": 450, "stock": 20 },
+            { "name": "Цитрус", "price": 450, "stock": 12 }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "OXVA Xlim Pro 2",
+        "category": "Вейпы",
+        "price": 3490,
+        "desc": "Регулировка обдува",
+        "image": "https://i.ibb.co/3Xgr0v8/2026-04-04-124326975.png"
+    },
+    {
+        "id": 6,
+        "name": "Vaporesso XROS 3",
+        "category": "Вейпы",
+        "price": 2790,
+        "desc": "Компактный под",
+        "image": "https://placehold.co/400x300/1E293B/3B82F6?text=XROS"
+    },
+    {
+        "id": 7,
+        "name": "Aspire Nautilus 3",
+        "category": "Испарители",
+        "price": 1250,
+        "desc": "0.7 Ом, испаритель",
+        "image": "https://i.ibb.co/xKG5BxjK/2026-04-04-124034203.png"
+    },
+    {
+        "id": 8,
+        "name": "GeekVape Wenax Картридж",
+        "category": "Картриджи",
+        "price": 650,
+        "desc": "1.2 Ом, 2шт",
+        "image": "https://i.ibb.co/k284RcWN/2026-04-04-123830912.png"
+    },
+    {
+        "id": 9,
+        "name": "HQD Cuvie Plus",
+        "category": "Одноразки",
+        "price": 990,
+        "desc": "1200 затяжек, клубника",
+        "image": "https://placehold.co/400x300/1E293B/3B82F6?text=HQD"
+    },
+    {
+        "id": 10,
+        "name": "Elf Bar 5000",
+        "category": "Одноразки",
+        "price": 1290,
+        "desc": "5000 затяжек, ледяная мята",
+        "image": "https://placehold.co/400x300/1E293B/3B82F6?text=Elf+Bar"
+    }
+]
