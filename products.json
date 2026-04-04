@@ -1,66 +1,80 @@
 [
     {
         "id": 1,
-        "name": "Хаски Соль 20мг",
+        "name": "Хаски Соль",
         "category": "Жидкости",
-        "price": 550,
-        "desc": "Тархун, 30мл",
-        "image": "https://placehold.co/400x300/1E293B/3B82F6?text=Husky"
+        "image": "https://placehold.co/400x300/1E293B/3B82F6?text=Husky",
+        "flavors": [
+            { "name": "Тархун 20мг", "price": 550, "stock": 15 },
+            { "name": "Малина 20мг", "price": 550, "stock": 8 },
+            { "name": "Лёд 20мг", "price": 550, "stock": 3 },
+            { "name": "Кола 20мг", "price": 550, "stock": 12 }
+        ]
     },
     {
         "id": 2,
-        "name": "OXVA Xlim Pro 2",
-        "category": "Вейпы",
-        "price": 3490,
-        "desc": "Регулировка обдува",
-        "image": "https://placehold.co/400x300/1E293B/3B82F6?text=OXVA"
+        "name": "Nasty Juice",
+        "category": "Жидкости",
+        "image": "https://placehold.co/400x300/1E293B/3B82F6?text=Nasty",
+        "flavors": [
+            { "name": "Манго 50мг", "price": 690, "stock": 10 },
+            { "name": "Клубника 50мг", "price": 690, "stock": 5 },
+            { "name": "Арбуз 50мг", "price": 690, "stock": 0 },
+            { "name": "Ананас 50мг", "price": 690, "stock": 7 }
+        ]
     },
     {
         "id": 3,
-        "name": "Aspire Nautilus 3",
-        "category": "Испарители",
-        "price": 1250,
-        "desc": "0.7 Ом, испаритель",
-        "image": "https://placehold.co/400x300/1E293B/3B82F6?text=Aspire"
+        "name": "Siberia White Fox",
+        "category": "Снюс",
+        "image": "https://placehold.co/400x300/1E293B/3B82F6?text=Siberia",
+        "flavors": [
+            { "name": "Мятный", "price": 450, "stock": 20 },
+            { "name": "Цитрус", "price": 450, "stock": 12 },
+            { "name": "Лесные ягоды", "price": 450, "stock": 5 }
+        ]
     },
     {
         "id": 4,
-        "name": "Siberia White Fox",
+        "name": "Pablo Exclusive",
         "category": "Снюс",
-        "price": 450,
-        "desc": "20 порций",
-        "image": "https://placehold.co/400x300/1E293B/3B82F6?text=Siberia"
+        "image": "https://placehold.co/400x300/1E293B/3B82F6?text=Pablo",
+        "flavors": [
+            { "name": "Ягодный микс", "price": 390, "stock": 18 },
+            { "name": "Мятный холодок", "price": 390, "stock": 9 },
+            { "name": "Цитрус бласт", "price": 390, "stock": 4 }
+        ]
     },
     {
         "id": 5,
-        "name": "Nasty Juice 50мг",
-        "category": "Жидкости",
-        "price": 690,
-        "desc": "Манго 30мл",
-        "image": "https://placehold.co/400x300/1E293B/3B82F6?text=Nasty"
+        "name": "OXVA Xlim Pro 2",
+        "category": "Вейпы",
+        "price": 3490,
+        "desc": "Регулировка обдува, 1000мАч, картридж 2мл",
+        "image": "https://placehold.co/400x300/1E293B/3B82F6?text=OXVA"
     },
     {
         "id": 6,
         "name": "Vaporesso XROS 3",
         "category": "Вейпы",
         "price": 2790,
-        "desc": "Компактный под",
+        "desc": "Компактный под, 1000мАч, регулировка воздуха",
         "image": "https://placehold.co/400x300/1E293B/3B82F6?text=XROS"
     },
     {
         "id": 7,
-        "name": "Pablo Exclusive",
-        "category": "Снюс",
-        "price": 390,
-        "desc": "Ягодный микс",
-        "image": "https://placehold.co/400x300/1E293B/3B82F6?text=Pablo"
+        "name": "Aspire Nautilus 3",
+        "category": "Испарители",
+        "price": 1250,
+        "desc": "0.7 Ом, испаритель для Nautilus 3",
+        "image": "https://placehold.co/400x300/1E293B/3B82F6?text=Aspire"
     },
     {
         "id": 8,
         "name": "GeekVape Wenax Картридж",
         "category": "Картриджи",
         "price": 650,
-        "desc": "1.2 Ом, 2шт",
+        "desc": "1.2 Ом, 2шт в упаковке",
         "image": "https://placehold.co/400x300/1E293B/3B82F6?text=Wenax+Cartridge"
     },
     {
