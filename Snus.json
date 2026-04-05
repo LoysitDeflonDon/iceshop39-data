@@ -6,7 +6,12 @@
         "image": "https://i.ibb.co/Pv7hLBrt/2026-04-05-002228350.png",
         "desc": "💪 Крепость: 150 мг/г | 📦 20 порций | 💧 Влажные паучи",
         "flavors": [
-            { "name": "Яблоко киви ред булл", "price": 500, "stock": 1, "desc": "🍏 Яблоко, киви, энергетик" }
+            {
+                "name": "Яблоко киви ред булл",
+                "price": 500,
+                "stock": 1,
+                "desc": "🍏 Яблоко, киви, энергетик"
+            }
         ]
     },
     {
@@ -16,8 +21,18 @@
         "image": "https://i.ibb.co/b5P59rvj/2026-04-05-002340501.png",
         "desc": "💪 Крепость: 201 мг/г | 📦 20 порций | 🔥 Экстремальная крепость",
         "flavors": [
-            { "name": "Белый персик", "price": 500, "stock": 1, "desc": "🍑 Белый персик" },
-            { "name": "Вишня брусника", "price": 500, "stock": 1, "desc": "🍒 Вишня, брусника" }
+            {
+                "name": "Белый персик",
+                "price": 500,
+                "stock": 1,
+                "desc": "🍑 Белый персик"
+            },
+            {
+                "name": "Вишня брусника",
+                "price": 500,
+                "stock": 1,
+                "desc": "🍒 Вишня, брусника"
+            }
         ]
     },
     {
@@ -27,8 +42,18 @@
         "image": "https://i.ibb.co/ZRJWzFgY/i.webp",
         "desc": "💪 Крепость: 190 мг/г | 📦 20 порций",
         "flavors": [
-            { "name": "Ледяная клюква", "price": 500, "stock": 1, "desc": "❄️ Клюква со льдом" },
-            { "name": "Дыня персик", "price": 500, "stock": 1, "desc": "🍈 Дыня, персик" }
+            {
+                "name": "Ледяная клюква",
+                "price": 500,
+                "stock": 1,
+                "desc": "❄️ Клюква со льдом"
+            },
+            {
+                "name": "Дыня персик",
+                "price": 500,
+                "stock": 1,
+                "desc": "🍈 Дыня, персик"
+            }
         ]
     },
     {
@@ -38,8 +63,18 @@
         "image": "https://i.ibb.co/cXXkTXwK/2026-04-05-002545123.png",
         "desc": "💪 Крепость: 75 мг/г | 📦 20 порций | 🧊 Ярко выраженный ментол",
         "flavors": [
-            { "name": "Mint 9", "price": 500, "stock": 1, "desc": "🌿 Мята 9" },
-            { "name": "Mint 10", "price": 500, "stock": 1, "desc": "🌿 Мята 10" }
+            {
+                "name": "Mint 9",
+                "price": 500,
+                "stock": 1,
+                "desc": "🌿 Мята 9"
+            },
+            {
+                "name": "Mint 10",
+                "price": 500,
+                "stock": 1,
+                "desc": "🌿 Мята 10"
+            }
         ]
     },
     {
@@ -49,8 +84,32 @@
         "image": "https://i.ibb.co/ZRJWzFgY/i.webp",
         "desc": "💪 Крепость: 50 мг/г | 📦 20 порций | 💧 Бестабачные, увлажнённые",
         "flavors": [
-            { "name": "Вишня", "price": 500, "stock": 1, "desc": "🍒 Вишня" },
-            { "name": "Зелёное яблоко", "price": 500, "stock": 1, "desc": "🍏 Зелёное яблоко" }
+            {
+                "name": "Вишня",
+                "price": 500,
+                "stock": 1,
+                "desc": "🍒 Вишня"
+            },
+            {
+                "name": "Зелёное яблоко",
+                "price": 500,
+                "stock": 1,
+                "desc": "🍏 Зелёное яблоко"
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "name": "sdjsjdfjlsdfjklsdf",
+        "category": "Снюс",
+        "image": "\"https://i.ibb.co/NnGcRZtS/i.webp\"",
+        "desc": "sdfgsdfgsdfgsdfg",
+        "flavors": [
+            {
+                "name": "gdfgdsfgsdf",
+                "price": 5964564576,
+                "stock": 35
+            }
         ]
     }
 ]
