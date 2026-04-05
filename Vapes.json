@@ -17,7 +17,8 @@
         "flavors": [
             { "name": "Чёрный", "price": 3490, "stock": 6 },
             { "name": "Оранжевый", "price": 3490, "stock": 4 },
-            { "name": "Серебряный", "price": 3490, "stock": 4 }
+            { "name": "Серебряный", "price": 3490, "stock": 4 },
+            { "name": "Розовый", "price": 3490, "stock": "Нет в наличии" }
         ]
     },
     {
@@ -31,12 +32,11 @@
     },
     {
         "id": 12,
-        "name": "Вейп4",
+        "name": "Brusko fellin",
         "category": "Вейпы",
-        "image": "https://i.ibb.co/3Xgr0v8/2026-04-04-124326975.png",
+        "image": "https://i.ibb.co/VWkbvSsN/2026-04-05-114120000.png",
         "flavors": [
-            { "name": "Чёрный", "price": 3490, "stock": 6 },
-            { "name": "Золотистый", "price": 3490, "stock": 4 }
+            { "name": "Красный", "price": 3490, "stock": 6 }
         ]
     },
     {
