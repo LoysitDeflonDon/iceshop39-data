@@ -4,8 +4,9 @@
         "name": "WAKA 20K",
         "category": "Одноразки",
         "image": "https://i.ibb.co/Nd52fgxz/2026-04-05-000355767.png",
+        "desc": "💨 До 20000 затяжек | 🔋 Аккумулятор 650 мАч | 💧 Объём жидкости: 20 мл",
         "flavors": [
-            { "name": "Sakura grape", "price": 1800, "stock": 1 }
+            { "name": "Sakura grape", "price": 1800, "stock": 1, "desc": "🌸 Виноград сакура" }
         ]
     },
     {
@@ -13,10 +14,11 @@
         "name": "NARCOZ 15K",
         "category": "Одноразки",
         "image": "https://i.ibb.co/3Xgr0v8/2026-04-04-124326975.png",
+        "desc": "💨 До 15000 затяжек | 🔋 Аккумулятор 550 мАч | 💧 Объём жидкости: 15 мл",
         "flavors": [
-            { "name": "Energy drink", "price": 1000, "stock": 1 },
-            { "name": "Strawberry pomegranat", "price": 1000, "stock": 1 },
-            { "name": "Mirinda", "price": 1000, "stock": 1 }
+            { "name": "Energy drink", "price": 1000, "stock": 1, "desc": "⚡ Энергетик" },
+            { "name": "Strawberry pomegranat", "price": 1000, "stock": 1, "desc": "🍓 Клубника, гранат" },
+            { "name": "Mirinda", "price": 1000, "stock": 1, "desc": "🍊 Миринда" }
         ]
     },
     {
@@ -24,11 +26,12 @@
         "name": "MOTI 12K",
         "category": "Одноразки",
         "image": "https://i.ibb.co/3yv2TckQ/2026-04-05-000633882.png",
+        "desc": "💨 До 12000 затяжек | 🔋 Аккумулятор 500 мАч | 💧 Объём жидкости: 12 мл",
         "flavors": [
-            { "name": "Розовый лимонад", "price": 800, "stock": 1 },
-            { "name": "Вишнёвый поцелуй 2Х", "price": 800, "stock": 1 },
-            { "name": "Яблоко в кислой глазури", "price": 800, "stock": 1 },
-            { "name": "Черника малина лимон", "price": 800, "stock": 1 }
+            { "name": "Розовый лимонад", "price": 800, "stock": 1, "desc": "🍋‍🟩 Розовый лимонад" },
+            { "name": "Вишнёвый поцелуй 2Х", "price": 800, "stock": 1, "desc": "🍒 Вишня" },
+            { "name": "Яблоко в кислой глазури", "price": 800, "stock": 1, "desc": "🍏 Кислое яблоко" },
+            { "name": "Черника малина лимон", "price": 800, "stock": 1, "desc": "🫐 Черника, малина, лимон" }
         ]
     },
     {
@@ -36,8 +39,9 @@
         "name": "Рик & Морти 30К",
         "category": "Одноразки",
         "image": "https://i.ibb.co/1fJqfpq3/2026-04-05-000755509.png",
+        "desc": "💨 До 30000 затяжек | 🔋 Аккумулятор 650 мАч | 💧 Объём жидкости: 25 мл",
         "flavors": [
-            { "name": "Marmelade berries", "price": 1800, "stock": 1 }
+            { "name": "Marmelade berries", "price": 1800, "stock": 1, "desc": "🍇 Мармеладные ягоды" }
         ]
     },
     {
@@ -45,9 +49,10 @@
         "name": "FUMO 18K",
         "category": "Одноразки",
         "image": "https://i.ibb.co/3Xgr0v8/2026-04-04-124326975.png",
+        "desc": "💨 До 18000 затяжек | 🔋 Аккумулятор 600 мАч | 💧 Объём жидкости: 18 мл",
         "flavors": [
-            { "name": "Газировка с лемонграссом", "price": 1000, "stock": 1 },
-            { "name": "Мохито лимон мята", "price": 1000, "stock": 1 }
+            { "name": "Газировка с лемонграссом", "price": 1000, "stock": 1, "desc": "🍋 Газировка, лемонграсс" },
+            { "name": "Мохито лимон мята", "price": 1000, "stock": 1, "desc": "🍃 Мохито, лимон, мята" }
         ]
     },
     {
@@ -55,10 +60,11 @@
         "name": "BRUSKO 1,5K",
         "category": "Одноразки",
         "image": "https://i.ibb.co/3Xgr0v8/2026-04-04-124326975.png",
+        "desc": "💨 До 1500 затяжек | 💨 Компактный формат",
         "flavors": [
-            { "name": "Грейпфрут", "price": 300, "stock": 1 },
-            { "name": "Кола", "price": 300, "stock": 1 },
-            { "name": "Фруктовое драже", "price": 300, "stock": 1 }
+            { "name": "Грейпфрут", "price": 300, "stock": 1, "desc": "🍊 Грейпфрут" },
+            { "name": "Кола", "price": 300, "stock": 1, "desc": "🥤 Кола" },
+            { "name": "Фруктовое драже", "price": 300, "stock": 1, "desc": "🍬 Фруктовое драже" }
         ]
     },
     {
@@ -66,8 +72,9 @@
         "name": "IZY MAX 5K",
         "category": "Одноразки",
         "image": "https://i.ibb.co/rKN17kgG/2026-04-05-001823556.png",
+        "desc": "💨 До 5000 затяжек | 🔋 Аккумулятор 650 мАч",
         "flavors": [
-            { "name": "Blueberry ice", "price": 450, "stock": 1 }
+            { "name": "Blueberry ice", "price": 450, "stock": 1, "desc": "🫐 Черника со льдом" }
         ]
     }
 ]
