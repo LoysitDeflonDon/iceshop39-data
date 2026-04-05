@@ -5,8 +5,8 @@
         "category": "Вейпы",
         "image": "https://i.ibb.co/dTPQjdS/2026-04-05-112341040.png",
         "flavors": [
-            { "name": "Серый кожанный", "price": 3490, "stock": 1 },
-            { "name": "Коричневый кожанный", "price": 3490, "stock": 1 }
+            { "name": "Серый кожанный", "price": 2700, "stock": 1 },
+            { "name": "Коричневый кожанный", "price": 2700, "stock": 1 }
         ]
     },
     {
@@ -15,10 +15,10 @@
         "category": "Вейпы",
         "image": "https://i.ibb.co/B5BsYsfH/2026-04-05-113236062.png",
         "flavors": [
-            { "name": "Чёрный", "price": 3490, "stock": 1 },
-            { "name": "Оранжевый", "price": 3490, "stock": 1 },
-            { "name": "Серебряный", "price": 3490, "stock": 1 },
-            { "name": "Розовый", "price": 3490, "stock": "Нет в наличии" }
+            { "name": "Чёрный", "price": 2300, "stock": 1 },
+            { "name": "Оранжевый", "price": 2300, "stock": 1 },
+            { "name": "Серебряный", "price": 2300, "stock": 1 },
+            { "name": "Розовый", "price": 2300, "stock": "Нет в наличии" }
         ]
     },
     {
@@ -27,7 +27,7 @@
         "category": "Вейпы",
         "image": "https://i.ibb.co/qQDDhDS/2026-04-05-113446835.png",
         "flavors": [
-            { "name": "Жёлтый", "price": 3490, "stock": 1 }
+            { "name": "Жёлтый", "price": 700, "stock": 1 }
         ]
     },
     {
@@ -36,7 +36,7 @@
         "category": "Вейпы",
         "image": "https://i.ibb.co/VWkbvSsN/2026-04-05-114120000.png",
         "flavors": [
-            { "name": "Красный", "price": 3490, "stock": 1 }
+            { "name": "Красный", "price": 800, "stock": 1 }
         ]
     },
     {
