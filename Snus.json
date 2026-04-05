@@ -65,13 +65,13 @@
         "flavors": [
             {
                 "name": "Mint 9",
-                "price": 500,
+                "price": 400,
                 "stock": 1,
                 "desc": "🌿 Мята 9"
             },
             {
                 "name": "Mint 10",
-                "price": 500,
+                "price": 400,
                 "stock": 1,
                 "desc": "🌿 Мята 10"
             }
@@ -86,13 +86,13 @@
         "flavors": [
             {
                 "name": "Вишня",
-                "price": 400,
+                "price": 500,
                 "stock": 1,
                 "desc": "🍒 Вишня"
             },
             {
                 "name": "Зелёное яблоко",
-                "price": 400,
+                "price": 500,
                 "stock": 1,
                 "desc": "🍏 Зелёное яблоко"
             }
