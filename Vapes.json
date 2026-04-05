@@ -1,32 +1,32 @@
 [
     {
         "id": 9,
-        "name": "Вейп1",
+        "name": "Vaporesso Xros 5",
         "category": "Вейпы",
-        "image": "https://i.ibb.co/3Xgr0v8/2026-04-04-124326975.png",
+        "image": "https://i.ibb.co/dTPQjdS/2026-04-05-112341040.png",
         "flavors": [
-            { "name": "Чёрный", "price": 3490, "stock": 6 },
-            { "name": "Золотистый", "price": 3490, "stock": 4 }
+            { "name": "Серый кожанный", "price": 3490, "stock": 1 },
+            { "name": "Коричневый кожанный", "price": 3490, "stock": 1 }
         ]
     },
     {
         "id": 10,
-        "name": "Вейп2",
+        "name": "Xros 5 Mini",
         "category": "Вейпы",
-        "image": "https://i.ibb.co/3Xgr0v8/2026-04-04-124326975.png",
+        "image": "https://i.ibb.co/B5BsYsfH/2026-04-05-113236062.png",
         "flavors": [
             { "name": "Чёрный", "price": 3490, "stock": 6 },
-            { "name": "Золотистый", "price": 3490, "stock": 4 }
+            { "name": "Оранжевый", "price": 3490, "stock": 4 },
+            { "name": "Серебряный", "price": 3490, "stock": 4 }
         ]
     },
     {
         "id": 11,
-        "name": "Вейп3",
+        "name": "Debbier nice",
         "category": "Вейпы",
-        "image": "https://i.ibb.co/3Xgr0v8/2026-04-04-124326975.png",
+        "image": "https://i.ibb.co/qQDDhDS/2026-04-05-113446835.png",
         "flavors": [
-            { "name": "Чёрный", "price": 3490, "stock": 6 },
-            { "name": "Золотистый", "price": 3490, "stock": 4 }
+            { "name": "Жёлтый", "price": 3490, "stock": 6 }
         ]
     },
     {
