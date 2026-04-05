@@ -15,9 +15,9 @@
         "category": "Вейпы",
         "image": "https://i.ibb.co/B5BsYsfH/2026-04-05-113236062.png",
         "flavors": [
-            { "name": "Чёрный", "price": 3490, "stock": 6 },
-            { "name": "Оранжевый", "price": 3490, "stock": 4 },
-            { "name": "Серебряный", "price": 3490, "stock": 4 },
+            { "name": "Чёрный", "price": 3490, "stock": 1 },
+            { "name": "Оранжевый", "price": 3490, "stock": 1 },
+            { "name": "Серебряный", "price": 3490, "stock": 1 },
             { "name": "Розовый", "price": 3490, "stock": "Нет в наличии" }
         ]
     },
@@ -27,7 +27,7 @@
         "category": "Вейпы",
         "image": "https://i.ibb.co/qQDDhDS/2026-04-05-113446835.png",
         "flavors": [
-            { "name": "Жёлтый", "price": 3490, "stock": 6 }
+            { "name": "Жёлтый", "price": 3490, "stock": 1 }
         ]
     },
     {
@@ -36,17 +36,17 @@
         "category": "Вейпы",
         "image": "https://i.ibb.co/VWkbvSsN/2026-04-05-114120000.png",
         "flavors": [
-            { "name": "Красный", "price": 3490, "stock": 6 }
+            { "name": "Красный", "price": 3490, "stock": 1 }
         ]
     },
     {
         "id": 13,
-        "name": "Вейп5",
+        "name": "Minican flick",
         "category": "Вейпы",
-        "image": "https://i.ibb.co/3Xgr0v8/2026-04-04-124326975.png",
+        "image": "https://i.ibb.co/wr3cyCr8/2026-04-05-114653681.png",
         "flavors": [
-            { "name": "Чёрный", "price": 3490, "stock": 6 },
-            { "name": "Золотистый", "price": 3490, "stock": 4 }
+            { "name": "Белый", "price": 3490, "stock": 1 },
+            { "name": "Синий", "price": 3490, "stock": 1 }
         ]
     },
     {
