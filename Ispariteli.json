@@ -1,1 +1,29 @@
-
+[
+  {
+    "id": 1,
+    "name": "Geekvape Aegis Coil B 0.2 ohm",
+    "category": "Испарители",
+    "image": "",
+    "price": 0,
+    "desc": "Сопротивление 0.2 Ом, подходит для Aegis",
+    "stock": 100
+  },
+  {
+    "id": 2,
+    "name": "Geekvape Aegis Coil B 0.3 ohm",
+    "category": "Испарители",
+    "image": "",
+    "price": 0,
+    "desc": "Сопротивление 0.3 Ом, подходит для Aegis",
+    "stock": 100
+  },
+  {
+    "id": 3,
+    "name": "Smoant knight/pasito 2 K-1 0.3 ohm",
+    "category": "Испарители",
+    "image": "",
+    "price": 0,
+    "desc": "Сопротивление 0.3 Ом, подходит для Knight и Pasito 2",
+    "stock": 150
+  }
+]
