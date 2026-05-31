@@ -1,1 +1,92 @@
-
+[
+  {
+    "id": 1,
+    "name": "FUMMO INSPO 18000 strong",
+    "category": "Одноразки",
+    "image": "",
+    "desc": "До 18000 затяжек",
+    "flavors": [
+      {
+        "name": "Перечная мята",
+        "price": 0,
+        "stock": 1,
+        "desc": "Peppermint"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Puffmi flora 25000",
+    "category": "Одноразки",
+    "image": "",
+    "desc": "До 25000 затяжек, 5% никотина",
+    "flavors": [
+      {
+        "name": "Мятный ментос",
+        "price": 0,
+        "stock": 1,
+        "desc": "Mint mentos"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "WAKA EXTRA",
+    "category": "Одноразки",
+    "image": "",
+    "desc": "До 20000 затяжек",
+    "flavors": [
+      {
+        "name": "Apple lollipop",
+        "price": 0,
+        "stock": 1,
+        "desc": "Яблочный леденец"
+      },
+      {
+        "name": "Blueberry energy drink",
+        "price": 0,
+        "stock": 1,
+        "desc": "Черничный энергетик"
+      },
+      {
+        "name": "Gummy bear",
+        "price": 0,
+        "stock": 1,
+        "desc": "Мармеладные мишки"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "YOOZ 25000",
+    "category": "Одноразки",
+    "image": "",
+    "desc": "До 25000 затяжек, 5% никотина",
+    "flavors": [
+      {
+        "name": "Ананас лёд",
+        "price": 0,
+        "stock": 1,
+        "desc": "Pineapple ice"
+      },
+      {
+        "name": "Ананас мята лёд",
+        "price": 0,
+        "stock": 1,
+        "desc": "Pineapple mint ice"
+      },
+      {
+        "name": "Яблоко",
+        "price": 0,
+        "stock": 1,
+        "desc": "Apple"
+      },
+      {
+        "name": "Яблочный лимонад",
+        "price": 0,
+        "stock": 1,
+        "desc": "Apple lemonade"
+      }
+    ]
+  }
+]
