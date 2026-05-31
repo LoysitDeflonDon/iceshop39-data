@@ -1,1 +1,74 @@
-
+[
+  {
+    "id": 1,
+    "name": "VDOX",
+    "category": "Шайбы",
+    "image": "",
+    "desc": "Никотиновые паучи",
+    "flavors": [
+      {
+        "name": "Cold Dry Danger",
+        "price": 0,
+        "stock": 1,
+        "desc": "Холодная сухая мята"
+      },
+      {
+        "name": "Double mint Danger",
+        "price": 0,
+        "stock": 1,
+        "desc": "Двойная мята"
+      },
+      {
+        "name": "Mentol ice Danger",
+        "price": 0,
+        "stock": 1,
+        "desc": "Ментол со льдом"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "D.L.T.A.",
+    "category": "Шайбы",
+    "image": "",
+    "desc": "Крепость 150 мг/г, 20 порций",
+    "flavors": [
+      {
+        "name": "Bubble fresh",
+        "price": 0,
+        "stock": 1,
+        "desc": "Свежая жвачка"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "D.L.T.A. Slim XS",
+    "category": "Шайбы",
+    "image": "",
+    "desc": "Крепость 150 мг/г, 20 порций",
+    "flavors": [
+      {
+        "name": "Sweet mint",
+        "price": 0,
+        "stock": 1,
+        "desc": "Сладкая мята"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "САМОУБИЙЦА ENERGY",
+    "category": "Шайбы",
+    "image": "",
+    "desc": "Крепость 249 мг/г",
+    "flavors": [
+      {
+        "name": "Redbull мята",
+        "price": 0,
+        "stock": 1,
+        "desc": "Редбулл с мятой"
+      }
+    ]
+  }
+]
