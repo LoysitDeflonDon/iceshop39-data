@@ -1,1 +1,20 @@
-
+[
+  {
+    "id": 1,
+    "name": "Vaporesso xros 0.4 3ml Corex 2.0",
+    "category": "Картриджи",
+    "image": "",
+    "price": 0,
+    "desc": "Объем 3 мл, сопротивление 0.4 Ом, Corex 2.0",
+    "stock": 40
+  },
+  {
+    "id": 2,
+    "name": "Vaporesso xros 0.6 2ml Corex 3.0",
+    "category": "Картриджи",
+    "image": "",
+    "price": 0,
+    "desc": "Объем 2 мл, сопротивление 0.6 Ом, Corex 3.0",
+    "stock": 40
+  }
+]
