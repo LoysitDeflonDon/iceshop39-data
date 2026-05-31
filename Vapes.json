@@ -1,1 +1,185 @@
-
+[
+  {
+    "id": 1,
+    "name": "PASITO 3",
+    "category": "Вейпы",
+    "image": "https://partut.by/wp-content/uploads/2026/02/1762973807100.jpg",
+    "desc": "Pod-система, аккумулятор 2800 мАч",
+    "flavors": [
+      {
+        "name": "Matte Black",
+        "price": 3200,
+        "stock": 1,
+        "desc": "Матовый черный"
+      },
+      {
+        "name": "Pepper White",
+        "price": 3200,
+        "stock": 1,
+        "desc": "Перечный белый"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "XROS 5",
+    "category": "Вейпы",
+    "image": "",
+    "desc": "Pod-система, аккумулятор 1200 мАч, регулировка воздуха",
+    "flavors": [
+      {
+        "name": "Blue Silk",
+        "price": 0,
+        "stock": 1,
+        "desc": "Синий шелк"
+      },
+      {
+        "name": "Carbon Stripe",
+        "price": 0,
+        "stock": 1,
+        "desc": "Карбоновый"
+      },
+      {
+        "name": "Coral Red",
+        "price": 0,
+        "stock": 1,
+        "desc": "Коралловый красный"
+      },
+      {
+        "name": "Jade Green",
+        "price": 0,
+        "stock": 1,
+        "desc": "Нефритовый зеленый"
+      },
+      {
+        "name": "Lavender Purple",
+        "price": 0,
+        "stock": 1,
+        "desc": "Лавандовый пурпурный"
+      },
+      {
+        "name": "Violet Silk",
+        "price": 0,
+        "stock": 1,
+        "desc": "Фиолетовый шелк"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "XROS 5 MINI",
+    "category": "Вейпы",
+    "image": "",
+    "desc": "Pod-система, аккумулятор 1000 мАч",
+    "flavors": [
+      {
+        "name": "Cool Black",
+        "price": 0,
+        "stock": 1,
+        "desc": "Холодный черный"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "BRUSKO FEELIN 2",
+    "category": "Вейпы",
+    "image": "",
+    "desc": "Компактная pod-система",
+    "flavors": [
+      {
+        "name": "Жемчужно-фиолетовый",
+        "price": 0,
+        "stock": 1,
+        "desc": "Pearl purple"
+      },
+      {
+        "name": "Малиновый",
+        "price": 0,
+        "stock": 1,
+        "desc": "Raspberry"
+      },
+      {
+        "name": "Мятный",
+        "price": 0,
+        "stock": 1,
+        "desc": "Mint"
+      },
+      {
+        "name": "Полночный чёрный",
+        "price": 0,
+        "stock": 1,
+        "desc": "Midnight black"
+      },
+      {
+        "name": "Розовый пунш",
+        "price": 0,
+        "stock": 1,
+        "desc": "Pink punch"
+      },
+      {
+        "name": "Туманный серый",
+        "price": 0,
+        "stock": 1,
+        "desc": "Misty gray"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "BRUSKO FEELIN MINI",
+    "category": "Вейпы",
+    "image": "",
+    "desc": "Компактная pod-система",
+    "flavors": [
+      {
+        "name": "Бежево-розовый градиент",
+        "price": 0,
+        "stock": 1,
+        "desc": "Beige pink gradient"
+      },
+      {
+        "name": "Бирюзовый",
+        "price": 0,
+        "stock": 1,
+        "desc": "Turquoise"
+      },
+      {
+        "name": "Желтый",
+        "price": 0,
+        "stock": 1,
+        "desc": "Yellow"
+      },
+      {
+        "name": "Красный",
+        "price": 0,
+        "stock": 1,
+        "desc": "Red"
+      },
+      {
+        "name": "Оранжевый",
+        "price": 0,
+        "stock": 1,
+        "desc": "Orange"
+      },
+      {
+        "name": "Серый",
+        "price": 0,
+        "stock": 1,
+        "desc": "Gray"
+      },
+      {
+        "name": "Синий",
+        "price": 0,
+        "stock": 1,
+        "desc": "Blue"
+      },
+      {
+        "name": "Фиолетовый",
+        "price": 0,
+        "stock": 1,
+        "desc": "Purple"
+      }
+    ]
+  }
+]
